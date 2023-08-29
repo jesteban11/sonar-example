@@ -13,7 +13,7 @@ public class FirstSonarJava {
         String MayBeNull = null;
         System.out.println("Hello SonarQube "+MayBeNull);
 
-        for (int i = 10; i < 1; i++) {
+        for (int i = 10; i < 15; i++) {
             System.out.println("Loop not true even once");
         }
 
